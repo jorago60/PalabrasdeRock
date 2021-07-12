@@ -53,9 +53,9 @@ body{
 .logo{
     width: 50%;
     height: 250px;
-    background-image: url(img/jue._17_12_2020_02_35_36.png);
+    background-image: url(img/logoluis1.jpg);
     background-size: contain;
-    background-size: 100%;
+    background-size: 25%;
     align-items: center;
     margin: 20px;
     
@@ -63,7 +63,7 @@ body{
 .logo2{
     width: 50%;
     height: 250px;
-    background-image: url(./img/pom2.jpg);
+    background-image: url(./img/TarjetaLuis.jpg);
     background-size:contain;
     background-size:100%;
     align-items: center;
