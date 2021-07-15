@@ -84,6 +84,21 @@ body{
     margin-left: 10px;
 
 }
+
+.card-img-tops{
+    margin-top: 30px;
+    
+}
+.card-text {
+    font-family:RockSalt-Regular ;
+    color: brown;
+
+}
+p{
+    font-family:RockSalt-Regular ;
+    color: brown;
+
+}
 @media ( max-width:580px){
  #header img{
      width: 250px;
