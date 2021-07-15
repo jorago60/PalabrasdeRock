@@ -37,10 +37,10 @@ body{
     margin-bottom: 20px;
  }
  #header img{
-     margin-right: 5%;
+     margin: auto;
  }
  h1{
-    margin-right:68px;
+     margin-right:auto;
      /* font-family: ZhimangXing; */
      font-family: SedgwickAveDisplay;
      /* font-family: RockSalt-Regular; */
