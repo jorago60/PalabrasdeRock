@@ -21,6 +21,7 @@
 }
 
 
+
 body{
     display: flex;
     flex-direction: column;
@@ -126,16 +127,28 @@ body{
     
 }
 
-.card-text {
+.card-text1 {
     font-family:RockSalt-Regular ;
     color: brown;
+}
+.card-text6 {
+    font-family: Neucha-regular; 
+   color: chartreuse;
+   font-size:large;
+}
+.card-text2 {
+    font-family:MrsSheppards-regular;
+    color: rgb(97, 27, 228);
+    font-size: x-large;
+    
+}
+.card-text3 {
+    font-family:ZhimangXing; ;
+    color: rgba(221, 221, 226, 0.932);
+    font-size: x-large;
 
 }
-p{
-    font-family:RockSalt-Regular ;
-    color: brown;
 
-}
 @media ( max-width:580px){
  #header img{
      width: 250px;
