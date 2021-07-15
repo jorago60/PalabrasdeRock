@@ -77,8 +77,10 @@ body{
         /* border: black solid 5px; */
     background-image: url(./img/TarjetaLuis.jpg);
     background-repeat: no-repeat;
-    background-size:cover; 
-    margin:30px;
+    background-position:center;
+    background-size:contain; 
+    align-items: center;
+    margin:20px;
    
     
 
