@@ -76,6 +76,7 @@ body{
     height: 250px;
     border: black solid 5px;
     background-image: url(./img/TarjetaLuis.jpg);
+    background-repeat: no-repeat;
     background-position:center;
     background-size:contain; 
     align-items: center;
@@ -136,6 +137,7 @@ p{
 @media ( max-width:580px){
  #header img{
      width: 250px;
+     height: 250px;
  }
 
 }
