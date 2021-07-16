@@ -52,6 +52,26 @@ body{
      font-size:large;
      color: chartreuse;
  }
+ .titulo3{
+    font-size:large;
+    color: rgb(37, 35, 187);
+ }
+ .titulo4{
+    font-size:large;
+    color: rgb(240, 207, 194);
+ }
+ .pdr{
+     font-family: cursive;
+     color: blueviolet;
+ }
+ .pdr1{
+    font-family: cursive;
+    color: rgb(150, 221, 18);
+}
+.pdr2{
+    font-family: cursive;
+    color: rgb(187, 14, 14);
+}
 .container{
     display: flex;
     width: 100%;
@@ -145,6 +165,12 @@ body{
 .card-text3 {
     font-family:ZhimangXing; ;
     color: rgba(221, 221, 226, 0.932);
+    font-size: x-large;
+
+}
+.card-text4 {
+    font-family:fantasy; 
+    color: rgba(201, 102, 10, 0.925);
     font-size: x-large;
 
 }
